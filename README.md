@@ -1,2 +1,2 @@
 # rainbow_song
-song about rainbows
+song about rainbows in the key of C major
